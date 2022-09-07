@@ -1,0 +1,54 @@
+*{
+    background-color: #181E42;
+}
+h1{
+    position: relative;
+    top: 40px;
+    left: 80px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text, .future{
+    position: relative;
+    top:40px;
+    left:80px;
+    width:600px;
+    margin-top:10px;
+    line-height: 1.7em;
+    word-spacing: 0.40em;
+    letter-spacing: 1px;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hobbies{
+    position: relative;
+    top: 40px;
+    left: 80px;
+    width:500px;
+    margin-top:10px;
+    line-height: 1.7em;
+    word-spacing: 0.40em;
+    letter-spacing: 1px;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lista{
+    position: relative;
+    top: 40px;
+    left: 80px;
+    width:500px;
+    margin-top:10px;
+    line-height: 1.7em;
+    color: aquamarine;
+    font-family: 'Lucida Handwriting';
+}
+.imagen{
+    display: flex;
+    padding: 50px; 
+    margin: 5px;
+    height: 10cm;  
+    float: right;
+    margin-left:220px;
+    margin-right:20px;
+    margin-top:10px;
+}
